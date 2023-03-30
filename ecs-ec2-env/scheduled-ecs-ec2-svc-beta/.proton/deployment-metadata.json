@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "6206727f-6a9d-4c58-affb-151eb6be8aa4",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:175441209007:service/scheduled-ecs-ec2-svc/service-instance/beta",
+    "templateArn" : "arn:aws:proton:us-east-1:175441209007:service-template/scheduled-ecs-ec2-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:175441209007:environment/ecs-ec2-env"
+  }
+}
