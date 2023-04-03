@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "f3bbdc48-8eee-47f8-ad15-5cfd69e7be58",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:175441209007:service/whatever/service-instance/alpha",
+    "templateArn" : "arn:aws:proton:us-east-1:175441209007:service-template/no-pipeline",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:175441209007:environment/ecs-ec2-env"
+  }
+}
