@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "b0f4cc41-4ba4-4adb-a9d9-a9157fa9944e",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:175441209007:service/whatever/service-instance/alpha",
     "templateArn" : "arn:aws:proton:us-east-1:175441209007:service-template/no-pipeline",
